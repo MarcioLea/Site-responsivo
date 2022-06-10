@@ -1,5 +1,5 @@
 
 Descrição:
-Site para treinar o boostrap
+Site simples responsivo.
 Acesse:
 https://marciolea.github.io/site-teste2/
